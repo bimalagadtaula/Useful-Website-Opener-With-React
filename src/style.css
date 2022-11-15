@@ -1,0 +1,38 @@
+h1{
+    background-color: rgb(64, 1, 64);
+    border: 2px solid white;
+    padding: 10px;
+    color: white;
+    border-radius: 6px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(64, 1, 64);
+    color: white;
+    margin: 8px;
+    padding: 14px 37px;
+    border-radius: 3px;
+    font-size: 14px;
+
+}
+
+.button:hover{
+    background-color: rgb(140, 18, 140);
+    font-size: 15px;
+}
+
+div{
+    text-align: center;
+}
+
+body{
+    background-image: url('./image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
